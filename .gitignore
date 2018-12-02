@@ -1,0 +1,10 @@
+# Ignore everything, except:
+*
+!*.c
+!*.h
+!*.md
+!.gitignore
+!chapter*
+!makefile*
+!*.bat
+!includes
